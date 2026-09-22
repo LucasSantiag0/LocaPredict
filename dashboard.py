@@ -248,7 +248,7 @@ with st.sidebar:
     st.markdown("---")
     st.markdown(
         "<div style='font-family:\"IBM Plex Mono\",monospace;font-size:0.6rem;"
-        "color:#2A3050;text-align:center;'>Attack On Data · 2TSCOA · Sprint 2</div>",
+        "color:#2A3050;text-align:center;'>Attack On Data · 2TSCOA</div>",
         unsafe_allow_html=True
     )
 
